@@ -1,0 +1,1 @@
+This repository contains a set of comprehensive notes on Database Management Systems (DBMS) and SQL. The notes cover various topics, from introductory concepts to advanced subjects, providing a valuable resource for anyone learning or working with databases.
